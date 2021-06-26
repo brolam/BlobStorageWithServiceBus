@@ -1,0 +1,23 @@
+{
+  "topic": "/subscriptions/20dc1821-bd84-4c6a-90a5-93fa828f2484/resourceGroups/cloud-shell-storage-eastus/providers/Microsoft.Storage/storageAccounts/cs210032000f37a6ecc",
+  "subject": "/blobServices/default/containers/sbdia/blobs/modelo_de_relatorio_de_pratica (2).doc",
+  "eventType": "Microsoft.Storage.BlobCreated",
+  "id": "9152251d-301e-0069-65d6-6aebe3064741",
+  "data": {
+    "api": "PutBlob",
+    "clientRequestId": "86e0c219-ff3f-4d1d-7606-0cacf39ddcf6",
+    "requestId": "9152251d-301e-0069-65d6-6aebe3000000",
+    "eTag": "0x8D938EDC3513655",
+    "contentType": "application/msword",
+    "contentLength": 67072,
+    "blobType": "BlockBlob",
+    "url": "https://cs210032000f37a6ecc.blob.core.windows.net/sbdia/modelo_de_relatorio_de_pratica (2).doc",
+    "sequencer": "000000000000000000000000000003DA0000000000296e9a",
+    "storageDiagnostics": {
+      "batchId": "14d10ddc-a006-00a0-00d6-6a560e000000"
+    }
+  },
+  "dataVersion": "",
+  "metadataVersion": "1",
+  "eventTime": "2021-06-26T22:00:08.4919893Z"
+}

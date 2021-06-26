@@ -1,0 +1,23 @@
+{
+  "topic": "/subscriptions/20dc1821-bd84-4c6a-90a5-93fa828f2484/resourceGroups/cloud-shell-storage-eastus/providers/Microsoft.Storage/storageAccounts/cs210032000f37a6ecc",
+  "subject": "/blobServices/default/containers/sbdia/blobs/IMG_0217.JPG",
+  "eventType": "Microsoft.Storage.BlobCreated",
+  "id": "5ecaf252-e01e-009e-5acf-6ac171066a6d",
+  "data": {
+    "api": "PutBlockList",
+    "clientRequestId": "ac5c8337-ec5f-41bb-73fa-86f039517dc7",
+    "requestId": "5ecaf252-e01e-009e-5acf-6ac171000000",
+    "eTag": "0x8D938E687B1E889",
+    "contentType": "image/jpeg",
+    "contentLength": 6866407,
+    "blobType": "BlockBlob",
+    "url": "https://cs210032000f37a6ecc.blob.core.windows.net/sbdia/IMG_0217.JPG",
+    "sequencer": "000000000000000000000000000003DA0000000000287de3",
+    "storageDiagnostics": {
+      "batchId": "145250fb-a006-00a0-00cf-6a560e000000"
+    }
+  },
+  "dataVersion": "",
+  "metadataVersion": "1",
+  "eventTime": "2021-06-26T21:08:21.9862946Z"
+}
